@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Atee-za (Athenkosi Zono) an Application Developer undergraduate.
 - 👀 I’m interested in coding, solving problems with algorthms. 
 - 🌱 I’m currently learning Applications Development (3rd Year) level.
+- 💞️ Java and Python are the languages i know better.
 - 💞️ I’m looking to collaborate in tech companies or any organisation that works on projects that include coding can teach some skills to fuel my career.
 - 📫 How to reach me. I can be contacted at 083 861 4201 or athenkosizono@gmail.com
 
