@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atee-za (Athenkosi Zono) an Application Developer undergraduate.
-- 👀 I’m interested in coding, solving problems with algorthms. 
+- 👀 I’m interested in coding, solving problems using algorthms. 
 - 🌱 I’m currently learning Applications Development (3rd Year) level.
 - 💞️ Java and Python are the languages i know.
 - 💞️ I’m looking to collaborate in tech companies or any organization that works on projects that includes coding to gain skills to fuel my career.
