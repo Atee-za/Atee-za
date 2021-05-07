@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning Applications Development (3rd Year) level.
 - 💞️ Java and Python are the languages i know.
 - 💞️ I’m looking to collaborate in tech companies or any organization that works on projects that includes coding to gain skills to fuel my career.
-- 📫 How to reach me. I can be contacted at 083 861 4201 or athenkosizono@gmail.com
+- 📫 How to reach me. I can be contacted at:
+      Cell: 083 861 4201 
+      Student Email: 218030185@mycput.ac.za
+      Personal Email: athenkosizono@gmail.com
 
 <!---
 Atee-za/Atee-za is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
