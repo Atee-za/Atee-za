@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Atee-za (Athenkosi Zono) an Application Developer undergraduate.
-- 👀 I’m interested in coding, solving problems using algorthms. 
-- 🌱 I’m currently learning Applications Development (3rd Year) level.
-- 💞️ Java and Python are the languages i know.
-- 💞️ I’m looking to collaborate in tech companies or any organization that works on projects that includes coding to gain skills to fuel my career.
+- 👋 Hi, I’m Athenkosi Zono  Application Developer Student.
+
 - 📫 How to reach me. I can be contacted at:
-      Cell: 083 861 4201 
-      Student Email: 218030185@mycput.ac.za
       Personal Email: athenkosizono@gmail.com
 
 <!---
