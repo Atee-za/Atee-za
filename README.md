@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Athenkosi Zono  Application Developer Student.
+- 👋 Hi, I’m Athenkosi Zono,  Application Developer Student.
 
 - 📫 How to reach me. I can be contacted at:
       Personal Email: athenkosizono@gmail.com
